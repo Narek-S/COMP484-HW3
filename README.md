@@ -1,1 +1,1 @@
-https://csun-orm.github.io/comp484-hw3/
+https://github.com/Narek-S/COMP484-HW3.git

@@ -1,1 +1,1 @@
-https://github.com/Narek-S/COMP484-HW3.git
+https://narek-s.github.io/COMP484-HW3/
